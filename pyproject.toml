@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "devto-articles"
+name = "blogs"
 version = "0.1.0"
 description = "Repository where I publish my articles to DEV.to with the help of CI/CD"
 license = "MIT"
@@ -12,9 +12,9 @@ classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Other Audience",
     "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3.10"
+    "Programming Language :: Python :: 3.10",
 ]
-packages = [{include = "devto_articles"}]
+packages = [{ include = "blogs" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
