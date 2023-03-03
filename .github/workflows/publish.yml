@@ -43,6 +43,7 @@ jobs:
           else
             pip install poetry
             poetry install
+            poetry shell
           fi
 
       - name: Publish Article
