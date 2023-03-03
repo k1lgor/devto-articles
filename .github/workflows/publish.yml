@@ -53,7 +53,7 @@ jobs:
             echo "Publishing articles to DEV.to 🎉"
             for added_modified_file in "${added_modified_files[@]}"; do
               echo "Do something with this ${added_modified_file}."
-              python script/publish.py ${added_modified_file}
+              poetry run script/publish.py ${added_modified_file}
             done
           else
             echo "No posts to publish"
