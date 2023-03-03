@@ -40,10 +40,6 @@ jobs:
           pip install pip -U
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
-          else
-            pip install poetry
-            poetry install
-            poetry shell
           fi
 
       - name: Publish Article
