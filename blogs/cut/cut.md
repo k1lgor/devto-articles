@@ -8,7 +8,6 @@ canonical_url: null
 series: "Linux from A to Z"
 ---
 
-
 ---
 
 ### ***Introduction***
