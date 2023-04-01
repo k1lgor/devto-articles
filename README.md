@@ -8,3 +8,4 @@
 | [df](./blogs/df/df.md)    | [Managing Disk Space in Linux with the df Command](https://dev.to/k1lgor/managing-disk-space-in-linux-with-the-df-command-3lh8)                      |
 | [ps](./blogs/ps/ps.md)    | [Efficiently Managing Processes with the ps Command in Linux](https://dev.to/k1lgor/efficiently-managing-processes-with-the-ps-command-in-linux-17p) |
 | [cut](./blogs/cut/cut.md) | [Mastering Text Manipulation with the Cut Command in Linux](https://dev.to/k1lgor/mastering-text-manipulation-with-the-cut-command-in-linux-1icm)    |
+| [cd](./blogs/cd/cd.md)    | [Navigating Your Linux System with the cd Command](https://dev.to/k1lgor/navigating-your-linux-system-with-the-cd-command-2ljf)                      |
