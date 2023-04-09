@@ -10,3 +10,4 @@
 | [df](./blogs/df/df.md)          | [Managing Disk Space in Linux with the df Command](https://dev.to/k1lgor/managing-disk-space-in-linux-with-the-df-command-3lh8)                      |
 | [ps](./blogs/ps/ps.md)          | [Efficiently Managing Processes with the ps Command in Linux](https://dev.to/k1lgor/efficiently-managing-processes-with-the-ps-command-in-linux-17p) |
 | [rsync](./blogs/rsync/rsync.md) | [Mastering the Powerful Linux Command - rsync](https://dev.to/k1lgor/mastering-the-powerful-linux-command-rsync-1bd0)                                |
+| [ssh](./blogs/ssh/ssh.md)       | [Mastering the ssh Command - Tips and Tricks](https://dev.to/k1lgor/mastering-the-ssh-command-tips-and-tricks-858)                                   |
