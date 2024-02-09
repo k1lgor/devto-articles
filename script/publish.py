@@ -33,8 +33,8 @@ def publish_to_dev(article):
         "api-key": os.getenv("API_KEY"),
     }
     response = requests.post(
-        "https://dev.to/api/articles", headers=headers, data=article
-    )
+        "https://dev.to/api/articles", headers=headers, data=article, 
+    timeout=60)
     return response.json()["id"]
 
 
