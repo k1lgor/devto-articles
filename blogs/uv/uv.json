@@ -1,0 +1,13 @@
+{
+  "article": {
+    "title": "Stop Using pip — Switch to uv in 5 Minutes",
+    "id": "",
+    "description": "A hands-on guide to uv, the blazing-fast Python package manager that replaces pip, virtualenv, and pyenv all at once.",
+    "published": false,
+    "body_markdown": "",
+    "tags": ["python", "beginners", "productivity", "tutorial"],
+    "series": "Modern Python Tooling",
+    "canonical_url": "",
+    "cover_image": ""
+  }
+}
